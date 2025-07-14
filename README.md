@@ -1,71 +1,39 @@
-# 👋 Hi, I'm Dinesh S
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-🎓 B.Tech student in Artificial Intelligence and Data Science  
-📍 From Tiruppur, Tamil Nadu, India  
-🔭 Passionate about Machine Learning, Data Science, and AI Solutions  
-🌱 Currently learning MLOps and scalable AI applications
+###
 
----
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-## 💼 Objective
-B.Tech graduate with hands-on experience in developing and evaluating machine learning models using Python and Scikit-learn. Eager to apply my knowledge in supervised learning and model evaluation while exploring MLOps and scalable AI solutions in a growth-focused role.
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+</div>
 
-## 🧠 Technical Skills
+###
 
-- **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib, Scikit-learn  
-- **ML Algorithms:** Logistic Regression, Linear Regression, Decision Tree, Random Forest, K-Means Clustering  
-- **Database:** MySQL  
+<div align="left">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/dinesh-s-b751a327b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/dinesh2121" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+</div>
 
----
-
-## 💻 Experience
-
-### Python Programming Virtual Intern  
-**MotionCut** | *Jan 2025 – Mar 2025*  
-- Strengthened programming logic and problem-solving skills using Python  
-- Applied modular programming and input handling in real-world-like tasks  
-
----
-
-## 🔍 Mini Project
-
-### Rock vs Mine Classification using Logistic Regression  
-- Built a machine learning model to classify SONAR signal data (Rock vs Mine)  
-- Preprocessed data, applied feature scaling, and trained with Scikit-learn  
-- Evaluated model with accuracy score, confusion matrix, and classification report  
-- Practiced binary classification and regularization to avoid overfitting  
-
----
-
-## 🏆 Certifications
-
-- **Machine Learning: Introduction for Everyone** – IBM (Coursera)  
-- **Introduction to Databases** – Meta (Coursera)  
-- **Introduction to SQL** – Simplilearn  
-
----
-
-## 📈 GitHub Stats
-
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenthilDinesh&show_icons=true&theme=radical)
-
----
-
-## 🚀 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dineshsenthilkumar2004/)  
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-orange)](https://codolio.com/profile/Dinesh2004@)
-
----
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dinesh-s-b751a327b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/SenthilDinesh)  
-[![Gmail](https://img.shields.io/badge/Email-Dinesh-red?logo=gmail)](mailto:dineshsenthilkumar2004@gmail.com)  
-
----
-
-📌 *Always exploring, always building.*
+###
