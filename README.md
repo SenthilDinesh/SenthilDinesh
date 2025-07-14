@@ -53,14 +53,19 @@ B.Tech graduate with hands-on experience in developing and evaluating machine le
 
 ---
 
+## 🚀 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dineshsenthilkumar2004/)  
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-orange)](https://codolio.com/profile/Dinesh2004@)
+
+---
+
 ## 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dinesh-s-b751a327b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/SenthilDinesh)  
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-orange)](https://codolio.com/profile/Dinesh2004%40)  
 [![Gmail](https://img.shields.io/badge/Email-Dinesh-red?logo=gmail)](mailto:dineshsenthilkumar2004@gmail.com)  
 
 ---
 
 📌 *Always exploring, always building.*
-
