@@ -1,39 +1,24 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 💫 About Me:
+# 👋 Hi, I'm Dinesh S<br><br>🎓 B.Tech student in Artificial Intelligence and Data Science  <br>📍 From Tiruppur, Tamil Nadu, India  <br>🔭 Passionate about Machine Learning, Data Science, and AI Solutions  <br>🌱 Currently learning MLOps and scalable AI applications<br><br>---<br><br>## 💼 Objective<br>B.Tech graduate with hands-on experience in developing and evaluating machine learning models using Python and Scikit-learn. Eager to apply my knowledge in supervised learning and model evaluation while exploring MLOps and scalable AI solutions in a growth-focused role.<br><br>---<br><br>## 🧠 Technical Skills<br><br>- **Languages & Libraries:** Python, Pandas, NumPy, Matplotlib, Scikit-learn  <br>- **ML Algorithms:** Logistic Regression, Linear Regression, Decision Tree, Random Forest, K-Means Clustering  <br>- **Database:** MySQL  <br><br>---<br><br>## 💻 Experience<br><br>### Python Programming Virtual Intern  <br>**MotionCut** | *Jan 2025 – Mar 2025*  <br>- Strengthened programming logic and problem-solving skills using Python  <br>- Applied modular programming and input handling in real-world-like tasks  <br><br>---<br><br>## 🔍 Mini Project<br><br>### Rock vs Mine Classification using Logistic Regression  <br>- Built a machine learning model to classify SONAR signal data (Rock vs Mine)  <br>- Preprocessed data, applied feature scaling, and trained with Scikit-learn  <br>- Evaluated model with accuracy score, confusion matrix, and classification report  <br>- Practiced binary classification and regularization to avoid overfitting  <br><br>---<br><br>## 🏆 Certifications<br><br>- **Machine Learning: Introduction for Everyone** – IBM (Coursera)  <br>- **Introduction to Databases** – Meta (Coursera)  <br>- **Introduction to SQL** – Simplilearn  <br><br>---<br><br>## 📈 GitHub Stats<br><br>![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SenthilDinesh&show_icons=true&theme=radical)<br><br>---<br><br>## 🚀 Coding Profiles<br><br>[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/dineshsenthilkumar2004/)  <br>[![Codolio](https://img.shields.io/badge/Codolio-Profile-orange)](https://codolio.com/profile/Dinesh2004@)<br><br>---<br><br>## 🔗 Let's Connect<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dinesh-s-b751a327b/)  <br>[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/SenthilDinesh)  <br>[![Gmail](https://img.shields.io/badge/Email-Dinesh-red?logo=gmail)](mailto:dineshsenthilkumar2004@gmail.com)  <br><br>---<br><br>📌 *Always exploring, always building.*<br>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinesh-s-b751a327b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshsenthilkumar2004@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SenthilDinesh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SenthilDinesh&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SenthilDinesh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SenthilDinesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="left">
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dinesh-s-b751a327b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/dinesh2121" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=SenthilDinesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
